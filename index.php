@@ -6,7 +6,7 @@
 			<div class="col-md-12 banner" style="margin-top:0px;">
 				<!-- <div class="col-md-4 col-md-offset-8 detail" >
 						<h2>BIG HERO 6</h2>
-						<p><span>Genre   </span>: Animation, Action, Comedy</p>
+						<p><span>Genre   </span>: Romantic, Animation, Action, Comedy</p>
 						<p><span>Release </span>: 7 November 2014</p>
 
 						<p>The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.</p>
