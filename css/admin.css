@@ -1,0 +1,82 @@
+
+/*---------- ADMIN PANEL -----------------------*/
+body{
+	padding:0;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 25px;
+}
+
+label{font-size: 13px;}
+.menu{ background: #f84713; border-radius: 0;}
+.menu .navbar-brand{color:#fff;}
+.menu .nav li a{color:#fff; margin-left: 15px;}
+
+.dropdown-menu{background:#f84713; border: 0;min-width:120px; width:120px; }
+
+.dropdown-menu li {	}
+.dropdown-menu li a{	 padding: 5px 10px;}
+.dropdown-menu li a:hover{background: none; padding: 5px 10px;}
+.dropdown:hover .dropdown-menu{display: block;}
+
+.login{border:1px solid #f84713; margin-top:100px; padding: 0; }
+
+.login .col-md-4{
+	background: #f84713;
+ color:#fff; 
+ padding: 70px 15px;
+ font-weight: bold;
+}
+
+.login .col-md-8{
+
+  padding: 40px 15px;
+ font-weight: bold;
+}
+
+.login input{width:80%; height: 40px; margin-top: 15px; padding-left: 7px;}
+
+.button{
+	display:inline-block; 
+	background: #f84713;
+	 color:#fff; 
+	 padding: 10px 25px; 
+	 font-weight: bold; 
+	 margin-top: 40px;
+	 transition:.5s;
+	 border:0;
+}
+
+.button span{font-size: 18px; }
+
+.button:visited{color:#fff;}
+.button:hover{color:#fff; text-decoration: none; background: #a42905;} 
+
+.button1{
+	display:inline-block; 
+	background: #a42905;
+	 color:#fff; 
+	 padding: 10px 25px; 
+	 font-weight: bold; 
+	
+	 transition:.5s;
+	 border:0;
+}
+
+
+.cont{border:1px solid #f84713; padding: 15px;}
+
+.left{
+	/*background: #f84713;*/
+ 
+ padding: 10px 15px;
+ 
+}
+.left p{margin-bottom: 20px;}
+.text{color:#fff;}
+.left hr{border-top: 1px solid #ccc; margin-top: 0;}
+
+.left input, select{width:100%; height: 40px; padding-left: 7px;}
+
+.left textarea{width:100%; height: 100px; padding-left: 7px;}
+
