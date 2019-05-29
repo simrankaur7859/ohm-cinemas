@@ -37,7 +37,7 @@ hr{border-top: 1px solid #ddd; margin-top: 5px;}
 .top-bar{background: #f84713;  padding: 0px 15px; padding-top: 15px;}
 .top-bar h3{color:#fff; font-family: 'Cooper';}
 
-.search{width:300px; background:none; color:#fff; font-weight: bold; height: 40px; border: 0; border:1px solid #fff; padding-left: 7px;}
+.search{width:300px; background:#fff; color:#fff; font-weight: bold; height: 40px; border: 0; border:1px solid #f84713; padding-left: 7px;}
 .srch{background: #fff; color:#f84713; border: 0; padding: 13px 10px; margin-left: 0;}
 
 .banner{padding: 0; overflow: hidden;}
